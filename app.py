@@ -31,14 +31,13 @@ def get_location_name(lat, lon):
 # ── Load data ──────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    trust_df  = pd.read_csv("trust_scores.csv")
-    alerts_df = pd.read_csv("alerts.csv")
+    trust_df  = pd.read_csv("processed/trust_scores.csv")
+    alerts_df = pd.read_csv("processed/alerts.csv")
     try:
-        conflicts_df = pd.read_csv("conflicts.csv")
+        conflicts_df = pd.read_csv("processed/conflicts.csv")
     except FileNotFoundError:
         conflicts_df = pd.DataFrame()
     return trust_df, alerts_df, conflicts_df
-
 trust_df, alerts_df, conflicts_df = load_data()
 
 # Add readable name column
