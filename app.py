@@ -31,8 +31,8 @@ def get_location_name(lat, lon):
 # ── Load data ──────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    trust_df  = pd.read_csv("data/processed/trust_scores.csv")
-    alerts_df = pd.read_csv("data/processed/alerts.csv")
+    trust_df  = pd.read_csv("trust_scores.csv")
+    alerts_df = pd.read_csv("alerts.csv")
     try:
         conflicts_df = pd.read_csv("data/processed/conflicts.csv")
     except FileNotFoundError:
