@@ -1,0 +1,5 @@
+source,base_score,freshness,coverage,reliability
+Sentinel-1 SAR,0.94,0.94,1.0,0.95
+GPM Rainfall,0.91,0.91,1.0,0.93
+USGS Gauge,0.87,0.87,1.0,0.9
+GloFAS Model,0.73,0.73,1.0,0.78

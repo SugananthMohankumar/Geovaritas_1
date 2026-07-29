@@ -1,0 +1,21 @@
+timestamp,lat,lon,source,feature,value,quality
+2018-08-01,10.0889,76.371,Sentinel-1 SAR,WaterDetected,True,0.94
+2018-08-01,10.0889,76.371,GPM Rainfall,RainfallMM,124.5,0.91
+2018-08-01,10.0889,76.371,USGS Gauge,RiverLevel,8.3,0.87
+2018-08-01,10.0889,76.371,GloFAS Model,FloodRisk,High,0.73
+2018-08-01,9.9312,76.2673,Sentinel-1 SAR,WaterDetected,True,0.94
+2018-08-01,9.9312,76.2673,GPM Rainfall,RainfallMM,124.5,0.91
+2018-08-01,9.9312,76.2673,USGS Gauge,RiverLevel,8.3,0.87
+2018-08-01,9.9312,76.2673,GloFAS Model,FloodRisk,Low,0.73
+2018-08-01,8.5241,76.9366,Sentinel-1 SAR,WaterDetected,True,0.94
+2018-08-01,8.5241,76.9366,GPM Rainfall,RainfallMM,124.5,0.91
+2018-08-01,8.5241,76.9366,USGS Gauge,RiverLevel,8.3,0.87
+2018-08-01,8.5241,76.9366,GloFAS Model,FloodRisk,High,0.73
+2018-08-01,11.2588,75.7804,Sentinel-1 SAR,WaterDetected,True,0.94
+2018-08-01,11.2588,75.7804,GPM Rainfall,RainfallMM,124.5,0.91
+2018-08-01,11.2588,75.7804,USGS Gauge,RiverLevel,8.3,0.87
+2018-08-01,11.2588,75.7804,GloFAS Model,FloodRisk,High,0.73
+2018-08-01,10.5276,76.2144,Sentinel-1 SAR,WaterDetected,True,0.94
+2018-08-01,10.5276,76.2144,GPM Rainfall,RainfallMM,124.5,0.91
+2018-08-01,10.5276,76.2144,USGS Gauge,RiverLevel,8.3,0.87
+2018-08-01,10.5276,76.2144,GloFAS Model,FloodRisk,High,0.73

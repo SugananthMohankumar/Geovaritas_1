@@ -1,0 +1,6 @@
+location,lat,lon,trust_score,risk_level,alert_level,conflicts
+Thiruvananthapuram,8.5241,76.9366,0.97,HIGH,🔴 HIGH ALERT,0
+Alappuzha,9.9312,76.2673,0.82,HIGH,🔴 HIGH ALERT,2
+Ernakulam,10.0889,76.371,0.97,HIGH,🔴 HIGH ALERT,0
+Thrissur,10.5276,76.2144,0.97,HIGH,🔴 HIGH ALERT,0
+Kozhikode,11.2588,75.7804,0.97,HIGH,🔴 HIGH ALERT,0

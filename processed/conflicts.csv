@@ -1,0 +1,3 @@
+lat,lon,conflict,source_a,source_b,severity
+9.9312,76.2673,SAR detects water but GloFAS says Low risk,Sentinel-1 SAR,GloFAS Model,HIGH
+9.9312,76.2673,High river level but GloFAS says Low risk,USGS Gauge,GloFAS Model,MEDIUM
